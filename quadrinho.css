@@ -13,9 +13,9 @@ header {
     background-color: #f4f4f4;
 }
 
-header .logo {
-    font-size: 24px;
-    font-weight: bold;
+header .logo img{
+    width: 400px;
+    height: 120px;
 }
 
 nav ul {
@@ -63,6 +63,6 @@ main {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: #f4f4f4;
+    background-color: #ADD8E6;
     margin-top: 20px;
 }
